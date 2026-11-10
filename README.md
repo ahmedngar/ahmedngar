@@ -4,7 +4,7 @@
 
 ### 🏆 Top Data Creator in Egypt &amp; Arabic Speaking Worldwide
 
-**Data Scientist · Machine Learning Specialist · Data Visualization (Power BI &amp; Excel) · Python &amp; SQL for Data Science**
+**Full-Stack AI Engineer · Data Science · Data Analysis · Machine &amp; Deep Learning**
 
 <p>
   <a href="https://www.linkedin.com/in/ahmed-alnger-a1333a320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -19,13 +19,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack AI Engineer** who loves turning raw data into decisions and models into real products. I work across the whole pipeline: **data analysis → machine learning → deep learning → LLMs → deployment**.
+I'm a **Full-Stack AI Engineer** who loves turning raw data into decisions and models into real products. I work across the whole pipeline: **data analysis → data science → machine learning → deep learning → deployment**.
 
 - 🎓 Final-year **Information Systems** student at **Shorouk Academy**, graduating in **2027**
-- 🧠 Specializing in **Machine Learning**, with a focus on end-to-end ML pipelines, Deep Learning, Explainable AI (XAI), Privacy-Preserving Federated Learning, and LLM integration
+- 🧠 Specializing in **Machine Learning** and **Deep Learning**, with a focus on end-to-end ML pipelines, Privacy-Preserving Federated Learning, and LLM integration
 - 📊 Building interactive dashboards and data stories with **Power BI** and **Excel**
 - 🚀 Shipping models as working tools with **FastAPI**, **Streamlit**, and **ONNX Runtime**
-- 🔬 Researcher at heart, and a big fan of **space and astronomy** 🌌
+- 🌌 Passionate about **space and astronomy**
 - 🎙️ Creating Data Science &amp; AI content and breaking down complex ideas for the Arab tech community
 
 <br/>
@@ -44,6 +44,7 @@ I'm a **Full-Stack AI Engineer** who loves turning raw data into decisions and m
 ### 🤖 Machine Learning
 
 <p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/Linear%20%26%20Logistic%20Regression-1E3A8A?style=flat-square" alt="Linear and Logistic Regression"/>
   <img src="https://img.shields.io/badge/Decision%20Trees-1E3A8A?style=flat-square" alt="Decision Trees"/>
   <img src="https://img.shields.io/badge/Random%20Forest-1E3A8A?style=flat-square" alt="Random Forest"/>
@@ -52,7 +53,6 @@ I'm a **Full-Stack AI Engineer** who loves turning raw data into decisions and m
   <img src="https://img.shields.io/badge/KNN-1E3A8A?style=flat-square" alt="KNN"/>
   <img src="https://img.shields.io/badge/K--Means-1E3A8A?style=flat-square" alt="K-Means"/>
   <img src="https://img.shields.io/badge/PCA-1E3A8A?style=flat-square" alt="PCA"/>
-  <img src="https://img.shields.io/badge/Explainable%20AI%20(XAI)-0F766E?style=flat-square" alt="XAI"/>
   <img src="https://img.shields.io/badge/Federated%20Learning-B45309?style=flat-square" alt="Federated Learning"/>
 </p>
 
@@ -119,7 +119,6 @@ I'm a **Full-Stack AI Engineer** who loves turning raw data into decisions and m
 
 ## 🔭 Interests
 
-- 🧪 Research in AI and Machine Learning
 - 🌌 Space and astronomy
 - 📚 Teaching and simplifying Data Science for the Arab community
 
