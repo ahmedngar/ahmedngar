@@ -124,12 +124,12 @@ I'm a **Full-Stack AI Engineer** who loves turning raw data into decisions and m
 
 <br/>
 
-## 📈 GitHub Stats
+## 📈 GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedngar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedngar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<a href="https://github.com/ahmedngar"><img src="https://img.shields.io/github/followers/ahmedngar?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=7C3AED" alt="GitHub followers"/></a>
+<a href="https://github.com/ahmedngar?tab=repositories"><img src="https://img.shields.io/badge/Browse-My%20Repositories-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="My repositories"/></a>
 
 </div>
 
